@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: Contact
 logo: /img/9a6bed15-5506-44c8-a88b-c7dea2caee23.png
 contact_entries:
   - heading: Location
