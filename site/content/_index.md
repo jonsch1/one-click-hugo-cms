@@ -1,7 +1,7 @@
 ---
 title: Der Musikladen in Aachen
 subtitle: 'Bei uns finden Sie  Flöten, Gitarren und vieles mehr..'
-image: /img/home-jumbotron.jpg
+image: /img/startseite-bild.jpg
 blurb:
   heading: Warum Flautissimo?
   text: >-
