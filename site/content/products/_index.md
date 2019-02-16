@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
-type: products
+title: Unser Sortiment
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Was wir anbieten
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Wir halten ein großes Sortiment an Gitarren, Flöten, Ukulelen und vieles
+  weitere für Sie vor Ort!
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -98,5 +95,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
